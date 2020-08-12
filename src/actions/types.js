@@ -1,0 +1,1 @@
+export const SEARCH__MOVIE ='SEARCH__MOVIE',
