@@ -1,5 +1,3 @@
-const { MDBCarouselItem } = require("mdbreact");
-
-module.exports={
-    'APIkey.js': 'e9ef9ba6',
-};
+module.exports = {
+    APIKey: 'e9ef9ba6'
+  };
